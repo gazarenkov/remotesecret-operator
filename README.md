@@ -1,5 +1,5 @@
 # secret-operator
-Scratch for operator managing secret information - DRAFT
+Scratch for operator managing secret information - SANDBOX project to play with some abstractions/technologies for potentially using in remote-secret framework
 
 ## Description
 // TODO(user): An in-depth paragraph about your project and overview of use
